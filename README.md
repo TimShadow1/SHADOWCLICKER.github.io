@@ -1,2 +1,2 @@
-# SHADOWCLICKER.io
+# SHADOWCLICKER.github.io
 Shadow Clicker
